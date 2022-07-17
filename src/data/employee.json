@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "name": "James Doe",
+  "skills": ["JavaScript", "Python", "Docker"],
+  "salary": 100,
+  "years": [2022, 2023, 2024]
+}
